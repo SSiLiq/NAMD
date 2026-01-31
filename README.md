@@ -49,8 +49,7 @@ Which files are essential for NAMD and how to organize the `toppar` directory.
 
 Any questions or suggestions, please contact us!
 
-| Name | Role | Contact |
-| :Alexandre Suman de Araújo | :Responsible Researcher | :alexandre.suman@unesp.br |
+| Alexandre Suman de Araújo | Responsible Researcher | alexandre.suman@unesp.br |
 
 | **SSiLiq Team** | Research & Development | [GitHub](https://github.com/SSiLiq) | [Instragram](https://www.instagram.com/ssiliq_ibilce/) |
 
