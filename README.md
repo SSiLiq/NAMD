@@ -5,6 +5,7 @@
 <p align="center">
   We have extensive experience in building and simulating all-atom molecular dynamics systems. This repository shares tutorials at different difficulty levels, execution scripts for each step, MD evaluations, and various analyses relevant to each stage of development.
 </p>
+<img width="300" alt="logo-namd-vmd" src="https://github.com/user-attachments/assets/1c06543b-7041-43ab-ab2c-89c5401f6dc9" />
 
 ---
 
