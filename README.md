@@ -14,7 +14,7 @@
 
 ## 📑 Table of Contents
 * [🧪 Peptides Construction - VMD 1.9.3](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#peptides-construction-using-namd-193)
-  ### 🔹 Peptide Construction Steps in VMD
+  ###  Peptide Construction Steps in VMD
   ### 🔹 Saving the PDB File
   ### 🔹 Generating the PSF File and Adjusting N- and C-Termini
   **Step 1:** Initial topology generation.
