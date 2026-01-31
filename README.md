@@ -13,22 +13,26 @@
 ---
 
 ## 📑 Table of Contents
-* [🧪 Peptides Construction - VMD 1.9.3](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#peptides-construction-using-namd-193)
-  ###  Peptide Construction Steps in VMD
-  ### 🔹 Saving the PDB File
-  ### 🔹 Generating the PSF File and Adjusting N- and C-Termini
-  **Step 1:** Initial topology generation.
-  **Step 2:** Patching N-terminus (e.g., Acetylation).
-  **Step 3:** Patching C-terminus (e.g., Amidation).
-  **Step 4:** Final verification and charge neutrality.
-* [References - Peptides](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#references)
-* [🦠 Membrane Preparation](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#membrane-using-charmm-gui)
-  ### 🔹 System Preparation in CHARMM-GUI
-  ### 🔹 Downloading and Choosing the System Files
-  ### 🔹 Energy Minimization and Equilibration
-  **Minimization:** Removing steric clashes.
-  **Equilibration:** NVT and NPT ensembles with area-constant constraints.
-* [References - Membrane](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#references-1)
+
+* [🧪 **Peptides Construction - VMD 1.9.3**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#peptides-construction-using-namd-193)
+    * 🔹 Peptide Construction Steps in VMD
+    * 🔹 Saving the PDB File
+    * 🔹 Generating the PSF File and Adjusting N- and C-Termini
+        * _Step 1: Initial topology generation_
+        * _Step 2: Patching N-terminus (e.g., Acetylation)_
+        * _Step 3: Patching C-terminus (e.g., Amidation)_
+        * _Step 4: Final verification and charge neutrality_
+* [**References - Peptides**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#references)
+
+---
+
+* [🦠 **Membrane Preparation**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#membrane-using-charmm-gui)
+    * 🔹 System Preparation in CHARMM-GUI
+    * 🔹 Downloading and Choosing the System Files
+    * 🔹 Energy Minimization and Equilibration
+        * _Minimization: Removing steric clashes_
+        * _Equilibration: NVT and NPT ensembles with area-constant constraints_
+* [**References - Membrane**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#references-1)
 
 ---
 
