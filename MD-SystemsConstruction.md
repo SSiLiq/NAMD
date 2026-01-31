@@ -1,6 +1,10 @@
-# 🧬💻 Molecular Dynamics: Systems Construction
+<p align="center">
+  <h1 align="center">🧬💻 Molecular Dynamics: Systems Construction</h1>
+</p>
 
-We have extensive experience in building and simulating all-atom molecular dynamics systems. This repository shares tutorials at different difficulty levels, execution scripts for each step, MD evaluations, and various analyses relevant to each stage of development.
+<p align="center">
+  We have extensive experience in building and simulating all-atom molecular dynamics systems. This repository shares tutorials at different difficulty levels, execution scripts for each step, MD evaluations, and various analyses relevant to each stage of development.
+</p>
 
 ---
 
