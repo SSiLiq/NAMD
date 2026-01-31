@@ -5,19 +5,27 @@ Let's go!?
 
 https://github.com/SSiLiq/NAMD.wiki.git --->
 
-Peptides (Construction Using NAMD 1.9.3)
-  Peptide Construction Steps in VMD
-  Saving the PDB File
-  Generating the PSF File and Adjusting N- and C-Termini
-    Step 1
-    Step 2
-    Step 3
-    Step 4
-  References
-Membrane (Using CHARMM-GUI)
-  System Preparation in CHARMM-GUI
-  Downloading and Choosing the System Files
-  Energy Minimization and Equilibration
-  References
+# Peptides (Construction Using NAMD 1.9.3)
+
+## Peptide Construction Steps in VMD
+## Saving the PDB File
+## Generating the PSF File and Adjusting N- and C-Termini
+
+### Step 1
+### Step 2
+### Step 3
+### Step 4
+
+## References
+
+---
+
+# Membrane (Using CHARMM-GUI)
+
+## System Preparation in CHARMM-GUI
+## Downloading and Choosing the System Files
+## Energy Minimization and Equilibration
+
+## References
 
   Any questions or suggestions, please contact us.
