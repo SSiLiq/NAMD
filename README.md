@@ -35,6 +35,15 @@
 * [**References - Membrane**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#references-1)
 
 ---
+* [📦 **Box Creation - Peptide–Membrane Systems (VMD 1.9.3)**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#box-creation-vmd---version-193)
+    * 🔹 Peptide Positioning and Alignment
+    * 🔹 System Merging with TopoTools
+    * 🔹 Solvation and Box Definition
+    * 🔹 Removal of Overlapping Waters
+    * 🔹 Ion Addition and Neutralization
+    * 🔹 System Validation
+    * 🔹 Generation of Restraint Files
+* [**References - Box Creation**](https://github.com/SSiLiq/NAMD/wiki/Systems-Built-Using-NAMD#references-2)
 
 ## 📬 Contact
 
